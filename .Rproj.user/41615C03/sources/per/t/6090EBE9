@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551105536571.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "247546764",
+    "id" : "6090EBE9",
+    "lastKnownWriteTime" : 1551111270,
+    "last_content_update" : 1551111270609,
+    "path" : "~/R/Titanic/Titanic.R",
+    "project_path" : "Titanic.R",
+    "properties" : {
+        "cursorPosition" : "13,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
